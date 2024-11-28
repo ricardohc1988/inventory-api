@@ -16,8 +16,6 @@ staticfiles/
 venv/
 env/
 .virtualenv/
-Pipfile
-Pipfile.lock
 
 # IDEs and Editors
 .vscode/
