@@ -28,3 +28,6 @@ Pipfile.lock
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Other stuff
+.docx
