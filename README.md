@@ -53,7 +53,6 @@ This project includes validation to ensure data consistency and security, and re
 - **GET /categories/{id}/** - Retrieve a specific category
 - **PUT /categories/{id}/** - Update a category
 - **DELETE /categories/{id}/** - Delete a category
-Products
 
 *Products*
 - **GET /products/** - List all products
@@ -61,7 +60,6 @@ Products
 - **GET /products/{id}/** - Retrieve a specific product
 - **PUT /products/{id}/** - Update a product
 - **DELETE /products/{id}/** - Delete a product
-Stock Movements
 
 *Stock movements*
 - **GET /stock_movements/** - List all stock movements

@@ -30,4 +30,5 @@ Pipfile.lock
 Thumbs.db
 
 # Other stuff
-.docx
+*.doc
+*.docx
